@@ -1,0 +1,20 @@
+.logo {
+	bottom: 0;
+	cursor: pointer;
+	font-family: 'Dosis', sans-serif;
+	font-size: 20px;
+	margin: 8px;
+	position: absolute;
+	right: 0;
+	z-index: 10;
+}
+.logo a {
+	color: #555555;
+	text-decoration: none;
+}
+.logo:hover .w {
+	color: white;
+}
+.logo:hover .r {
+	color: #DD0000;
+}
